@@ -1,0 +1,32 @@
+[SECTION 101: ASSAULT AND BATTERY]
+A person commits assault if they intentionally place another person in reasonable apprehension of imminent physical harm. This is a Class 2 Misdemeanor. If physical contact is made causing injury (battery), the charge is elevated to a Class 4 Felony.
+
+[SECTION 105: AGGRAVATED ASSAULT]
+Assault becomes aggravated if it involves the use of a deadly weapon, or if the victim is a recognized public servant (police officer, firefighter, paramedic) performing their official duties. Aggravated Assault is a Class 2 Felony.
+
+[SECTION 201: THIEVERY AND LARCENY]
+A person commits thievery if they unlawfully take movable property of another. If the value is under 500 USD, it is a Petty Misdemeanor. If the value is between 500 USD and 5000 USD, it is a Class 1 Misdemeanor. Over 5000 USD constitutes Grand Larceny, a Class 4 Felony.
+
+[SECTION 205: BURGLARY AND UNAUTHORIZED ENTRY]
+Entering a building without authority with intent to commit a felony or theft. The use of force, destruction of physical barriers, or entry through forced windows elevates the offense to a Class 3 Felony, regardless of the property's monetary value.
+
+[SECTION 210: EMBEZZLEMENT AND CORPORATE FRAUD]
+Fraudulent appropriation of property by a person to whom it has been entrusted (e.g., an employee or corporate officer). If the embezzled funds exceed 50,000 USD, it is a Class 2 Felony. The corporation may also face civil penalties up to three times the stolen amount.
+
+[SECTION 301: CYBER FRAUD AND UNAUTHORIZED ACCESS]
+Intentionally accessing a computer network or restricted database without authorization to steal financial data. If the financial impact exceeds 10,000 USD, it is a Class 2 Felony. If the impact is unknown or under 10,000 USD, it is a Class 4 Felony.
+
+[SECTION 305: DIGITAL IDENTITY THEFT]
+Using another person's digital credentials (passwords, biometric data) to impersonate them online for financial gain. This is a Class 3 Felony and carries a mandatory minimum fine of 2,000 USD.
+
+[SECTION 310: INTELLECTUAL PROPERTY THEFT]
+The unauthorized distribution, copying, or selling of copyrighted digital assets, source code, or trade secrets. If the stolen IP is valued over 100,000 USD, it is a Class 2 Felony and requires a mandatory 1-year minimum sentence.
+
+[SECTION 401: VANDALISM]
+Defacing or destroying public or private property using spray paint, physical tools, or chemical agents. If the repair cost is under 1000 USD, it is punishable by a fine equal to twice the cost of the damage.
+
+[SECTION 402: AGGRAVATED VANDALISM]
+If vandalism is committed against a historical monument, religious institution, or government facility, it is automatically elevated to a Class 1 Misdemeanor, carrying potential jail time of up to 6 months.
+
+[SECTION 501: TRESPASSING]
+Knowingly entering private property without permission when explicit warning signs are posted. This is a Petty Misdemeanor. If the individual refuses to leave after being asked by the owner, it becomes a Class 2 Misdemeanor.
