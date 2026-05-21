@@ -4,6 +4,7 @@
 * **Course:** Information Retrieval
 * **Instructor:** Birger Moell
 * **Author:** Nuria San Emeterio Rodriguez
+* **Video Link:** https://drive.google.com/file/d/1audJeV8ediqxpB0O6Jxh11C5d2o_Y51K/view?usp=share_link 
 
 ---
 
